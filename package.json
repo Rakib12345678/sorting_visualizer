@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ssk-2002.github.io/sorting-visualizer",
+  "homepage": "https://Rakib12345678/sorting_visualizer",
   "name": "sorting",
   "version": "0.1.0",
   "private": true,
@@ -21,6 +21,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
